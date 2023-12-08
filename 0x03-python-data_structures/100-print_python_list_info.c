@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <Python.h>
-#include <usr/include/python3.4/pyconfig-64.h>
 /**
  * print_python_list_info -  function that prints some basic info about Python lists
  * @p: python list
